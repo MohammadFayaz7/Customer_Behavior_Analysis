@@ -120,7 +120,7 @@ cd Customer-Shopping-Behavior-Analysis
 ### 2️⃣ Run Python Notebook
 
 ### Open and execute:
-
+```bash
 Customer_Shopping_Behavior_Analysis.ipynb
 
 ----
