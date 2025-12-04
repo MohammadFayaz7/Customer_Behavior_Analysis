@@ -115,4 +115,10 @@ The Power BI dashboard presents key metrics in an easy-to-interpret visual forma
 git clone https://github.com/MohammadFayaz7/Customer-Shopping-Behavior-Analysis.git
 cd Customer-Shopping-Behavior-Analysis
 
-
+Customer-Shopping-Behavior-Analysis/
+│
+├── Business Problem Document.pdf
+├── Customer Shopping Behavior Analysis Report.pdf
+├── Customer_Shopping_Behavior_Analysis.ipynb
+├── customer_behavior_dashboard.pbix
+└── README.md
