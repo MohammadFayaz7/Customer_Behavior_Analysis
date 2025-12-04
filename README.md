@@ -114,9 +114,13 @@ The Power BI dashboard presents key metrics in an easy-to-interpret visual forma
 ```bash
 git clone https://github.com/MohammadFayaz7/Customer-Shopping-Behavior-Analysis.git
 cd Customer-Shopping-Behavior-Analysis
+```
 
-2️⃣ Run Python Notebook
+----
+### 2️⃣ Run Python Notebook
 
-Open and execute:
+### Open and execute:
 
 Customer_Shopping_Behavior_Analysis.ipynb
+
+----
