@@ -105,5 +105,14 @@ The Power BI dashboard presents key metrics in an easy-to-interpret visual forma
 ✅ Seasonal trends  
 ✅ Discount and shipping behavior patterns
 
-📁 Dashboard file:
+
+---
+
+## 🛠️ How to Use This Project
+
+### 1️⃣ Clone Repository
+```bash
+git clone https://github.com/MohammadFayaz7/Customer-Shopping-Behavior-Analysis.git
+cd Customer-Shopping-Behavior-Analysis
+
 
