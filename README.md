@@ -122,5 +122,16 @@ cd Customer-Shopping-Behavior-Analysis
 ### Open and execute:
 ```bash
 Customer_Shopping_Behavior_Analysis.ipynb
+```
 
-----
+---
+
+### Notebook includes:
+
+Data loading
+
+Cleaning
+
+EDA
+
+PostgreSQL connection & data insert
