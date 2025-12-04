@@ -1,14 +1,109 @@
-⭐ Customer Shopping Behavior Analysis
-<h3 align="center"> A Python • SQL • Power BI Data Analytics Project </h3> <p align="center"> <i>End-to-end analysis of retail customer purchase behavior to uncover sales trends, customer segments, and strategic business insights.</i> </p>
+# 👨🏻‍💻 Customer Shopping Behavior Analysis – Data Analyst Portfolio Project
 
-📌 Project Overview
+This project represents a **complete end-to-end industry-grade data analytics workflow**, designed to showcase practical skills used by professional data analysts in real-world business environments.
 
-This project explores customer shopping behavior using real-world transaction data to identify patterns related to:
+The project covers everything from:
+- Raw data cleaning & preparation  
+- SQL business analysis  
+- Interactive dashboard building  
+- Final reporting & business recommendations  
 
-Spending behavior
-Product preferences
-Discount impact
-Subscription trends
-Customer loyalty
+---
 
-The objective is to provide actionable insights that enable stakeholders to boost sales, improve engagement, and strengthen long-term customer loyalty through data-driven decisions.
+## ✅ This Project is Perfect For
+
+- 📊 **Aspiring Data Analysts** building strong portfolio projects  
+- 📚 **Students & learners** mastering Python, SQL & Power BI  
+- 💼 **Job applicants** preparing for Data Analyst / Business Analyst roles
+
+---
+
+## 📌 Project Overview
+
+The aim of this project is to simulate a **corporate retail analytics case study** where customer shopping transaction data is used to generate **actionable business insights**:
+
+✅ **Data Cleaning & EDA (Python)**  
+- Handled missing values  
+- Standardized columns  
+- Created new business-useful features  
+- Prepared dataset for database storage
+
+✅ **SQL Business Analysis (PostgreSQL)**  
+- Executed structured business queries  
+- Analyzed customer segments, revenue patterns, loyalty, discounts and shipping behavior
+
+✅ **Dashboarding (Power BI)**  
+- Built a fully interactive analytics dashboard
+- Visualized customer trends and KPIs for stakeholders
+
+✅ **Reporting & Recommendations**  
+- Compiled key findings  
+- Generated practical marketing and sales strategies
+
+---
+
+## 🗂 Dataset Overview
+
+- **Records:** 3,900 retail transactions  
+- **Attributes:** 18 columns
+
+### Key Data Categories
+
+| Data Type | Features |
+|-----------|-----------|
+| 👥 Demographics | Age, Gender, Location, Subscription Status |
+| 🛒 Purchases | Item, Category, Season, Size, Color, Purchase Amount |
+| 📊 Behavior | Discounts, Purchase Frequency, Shipping Type |
+| ⭐ Feedback | Review Ratings |
+
+⚠ Missing values in **Review Ratings** were handled using median imputation by product category.
+
+---
+
+## 🔍 Python – Data Preparation & EDA
+
+The notebook includes:
+
+- Data import & exploration  
+- Missing value treatment  
+- Feature engineering:
+  - `age_group`
+  - `purchase_frequency_days`
+- Column standardization (snake_case convention)
+- Redundancy detection & column removal
+- Loading cleaned dataset into **PostgreSQL database**
+
+---
+
+## 🗄 SQL – Business Analysis
+
+Business intelligence queries answered:
+
+- 💰 Revenue by **gender**
+- ⭐ **Top-rated products**
+- 🚚 Express vs Standard shipping comparison
+- 👥 Subscribers vs Non-subscribers analysis
+- 🎯 **High-value discount customers**
+- 🔖 Discount-dependent product identification
+- 🧩 Customer segmentation:
+  - New
+  - Returning
+  - Loyal
+- 🥇 **Top 3 products per category**
+- 🔁 Subscription behavior of repeat buyers
+- 👶🧓 Revenue by age group
+
+---
+
+## 📊 Power BI Dashboard
+
+The Power BI dashboard presents key metrics in an easy-to-interpret visual format:
+
+✅ Customer demographics revenue breakdown  
+✅ Sales by product category  
+✅ Subscription contribution analysis  
+✅ Seasonal trends  
+✅ Discount and shipping behavior patterns
+
+📁 Dashboard file:
+
