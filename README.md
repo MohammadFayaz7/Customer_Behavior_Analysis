@@ -160,3 +160,33 @@ customer_behavior_dashboard.pbix
 1. Review Business insight report
 
 2. Prepare Presentation slides for stakeholders
+
+### 📁 Repository Structure
+
+```bash
+Customer-Shopping-Behavior-Analysis/
+│
+├── Business Problem Document.pdf
+├── Customer Shopping Behavior Analysis Report.pdf
+├── Customer_Shopping_Behavior_Analysis.ipynb
+├── customer_behavior_dashboard.pbix
+└── README.md
+```
+
+
+### 🎯 Key Learning Outcomes
+
+✅ Business problem translation into analytics use-cases
+✅ Data cleaning & feature engineering
+✅ SQL analytics & customer segmentation
+✅ Dashboard storytelling in Power BI
+✅ Business recommendations generation
+
+#### 👨‍💻 About the Author
+
+Mohammad Fayaz
+
+🎓 MCA Graduate
+📊 Data Analytics | Python | SQL | Power BI | Web Development
+
+Building hands-on projects to transition into a professional Data Analyst role.
