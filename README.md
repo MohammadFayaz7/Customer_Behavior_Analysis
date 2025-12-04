@@ -135,3 +135,28 @@ Cleaning
 EDA
 
 PostgreSQL connection & data insert
+
+### 3️⃣ SQL Analysis
+
+1. Create PostgreSQL database
+
+2. Load dataset via Python notebook
+
+3. Execute SQL queries to answer business questions
+
+### 4️⃣ Power BI Dashboard
+
+1. Open:
+```bash
+customer_behavior_dashboard.pbix
+```
+
+2. Connect to your SQL database
+
+3. Explore the interactive visuals
+
+### 5️⃣ Documentation
+
+1. Review Business insight report
+
+2. Prepare Presentation slides for stakeholders
